@@ -9,11 +9,10 @@ This Python-based project leverages computer vision and neural networks to creat
 ## Tools and Techniques Used
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Core scripting and automation
-- **OpenCV:** Webcam access and image processing
-- **Dlib:** Face detection and recognition
-- **Pandas:** Data management and CSV handling
-- **Text-to-Speech (TTS):** Interactive feedback
-- **GitHub:** Version control and collaboration
+- ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) Webcam access and image processing
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) NumPy is used particularly in handling facial encodings and calculating Euclidean distances for face recognition in the project.
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) Data management and CSV handling
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) Version control and collaboration
 
 ## Features
 
