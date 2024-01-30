@@ -10,7 +10,7 @@ This Python-based project leverages computer vision and neural networks to creat
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Core scripting and automation
 - ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) Webcam access and image processing
-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) NumPy is used particularly in handling facial encodings and calculating Euclidean distances for face recognition in the project.
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) Efficient manipulation of numerical arrays
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) Data management and CSV handling
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) Version control and collaboration
 
@@ -29,9 +29,17 @@ This Python-based project leverages computer vision and neural networks to creat
 
 ## Contribution
 
-Contributions are welcome! Feel free to fork, open issues, and submit pull requests to enhance the system.
-
-
-
+Contributions are welcome! 
 Feel free to explore the code, experiment, and contribute to make it even smarter! 🌟
+
+## ScreenShots
+
+- ![Capturing Picture through webcam.](<Capturing pictures.png>)
+- ![Saving Picture in different folders.](<Saving photos in different folder.png>)
+- ![Taking Attendance via Webcam.](<Taking Attendance.png>)
+- ![Updating Attendance in CSV file.](<Updating attendance.png>)
+
+
+
+
 
