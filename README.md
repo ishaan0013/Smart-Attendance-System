@@ -8,7 +8,7 @@ This Python-based project leverages computer vision and neural networks to creat
 
 ## Tools and Techniques Used
 
-- **Python:** Core scripting and automation
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Core scripting and automation
 - **OpenCV:** Webcam access and image processing
 - **Dlib:** Face detection and recognition
 - **Pandas:** Data management and CSV handling
