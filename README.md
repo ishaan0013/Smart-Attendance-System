@@ -34,10 +34,17 @@ Feel free to explore the code, experiment, and contribute to make it even smarte
 
 ## ScreenShots
 
-- ![Capturing Picture through webcam.](<Capturing pictures.png>)
-- ![Saving Picture in different folders.](<Saving photos in different folder.png>)
-- ![Taking Attendance via Webcam.](<Taking Attendance.png>)
-- ![Updating Attendance in CSV file.](<Updating attendance.png>)
+- Capturing Picture through webcam. 
+![Capturing Picture through webcam.](<Capturing pictures.png>)
+
+- Saving Picture in different folders.
+![Saving Picture in different folders.](<Saving photos in different folder.png>)
+
+- Taking Attendance via Webcam.
+![Taking Attendance via Webcam.](<Taking Attendance.png>)
+
+- Updating Attendance in CSV file.
+![Updating Attendance in CSV file.](<Updating attendance.png>)
 
 
 
